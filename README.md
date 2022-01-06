@@ -1,5 +1,5 @@
 # airflow-log-analyzer
-A simple python script to analyze and return errors within Airflow log files.
+A simple python script to analyze and return ERROR messages within Airflow log files.
 
 ## Execution
 This script is run via the command line. It will return all of the log errors found within a specified Airflow log directory.
