@@ -9,4 +9,4 @@ The DAG's logs I am inspecting is called 'marketvol', so to execute this script 
 
 ```python3 log_analyzer.py marketvol```
 
-![results](/screenshots/log_errors.png)
+
